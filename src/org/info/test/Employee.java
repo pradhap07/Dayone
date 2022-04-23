@@ -6,6 +6,7 @@ public class Employee {
 	}
 		private void empName() {
 	   System.out.println("Employee name is arun");
+	   System.out.println("Employee Weight is 100kgs");
 		}
 	   private void empAge() {
 		   System.out.println("Employee age is 25");
